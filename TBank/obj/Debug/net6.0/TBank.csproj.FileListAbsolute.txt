@@ -1,0 +1,15 @@
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.csproj.AssemblyReference.cache
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.AssemblyInfoInputs.cache
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.AssemblyInfo.cs
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.csproj.CoreCompileInputs.cache
+C:\Users\daleyeah\source\repos\TBank\TBank\bin\Debug\net6.0\TBank.exe
+C:\Users\daleyeah\source\repos\TBank\TBank\bin\Debug\net6.0\TBank.deps.json
+C:\Users\daleyeah\source\repos\TBank\TBank\bin\Debug\net6.0\TBank.runtimeconfig.json
+C:\Users\daleyeah\source\repos\TBank\TBank\bin\Debug\net6.0\TBank.dll
+C:\Users\daleyeah\source\repos\TBank\TBank\bin\Debug\net6.0\TBank.pdb
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.dll
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\refint\TBank.dll
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.pdb
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\TBank.genruntimeconfig.cache
+C:\Users\daleyeah\source\repos\TBank\TBank\obj\Debug\net6.0\ref\TBank.dll
